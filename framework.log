@@ -1047,3 +1047,408 @@ Call log:
 2026-07-01 00:29:49,763 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
 2026-07-01 00:29:49,763 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
 2026-07-01 00:30:26,610 [INFO] Framework.CoreEngine: Automation workflow executed completely. System reports finalized inside artifacts/reports/ folder.
+2026-07-01 19:19:07,702 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-07-01 19:19:08,823 [INFO] root: 🌐 Auto-generating fresh free proxy pool...
+2026-07-01 19:19:10,830 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-07-01 19:19:12,643 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:14,729 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-encryptor (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:15,204 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:16,226 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-encryptor (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:16,797 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:17,767 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-encryptor (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:18,194 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:19,257 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/pricing (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:19,645 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:20,600 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/pricing (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:21,041 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:21,975 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/pricing (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:22,414 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:23,309 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:23,807 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:24,737 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:25,181 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:26,062 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:26,584 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:27,614 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/json-formatter (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:28,127 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:29,118 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/json-formatter (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:29,628 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:30,583 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/json-formatter (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:31,730 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:32,853 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/hash-generator (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:33,490 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:34,495 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/hash-generator (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:35,062 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:36,018 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/hash-generator (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:36,714 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:37,771 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:38,457 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:39,516 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:40,125 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:41,195 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:41,696 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:42,728 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/web (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:43,301 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:44,244 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/web (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:44,745 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:45,713 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/web (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:46,263 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:47,167 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/finance (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:47,619 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:48,579 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/finance (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:49,110 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:50,070 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/finance (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:50,649 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:51,692 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/jwt-debugger (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:52,193 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:53,257 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/jwt-debugger (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:53,854 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:54,936 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/jwt-debugger (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:19:55,388 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:56,379 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:19:56,922 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:19:57,988 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:19:58,474 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:19:59,476 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:00,138 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:01,461 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/misc (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:02,149 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:03,290 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/misc (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:03,929 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:04,902 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/misc (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:05,421 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:06,332 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:06,891 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:07,803 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:08,377 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:09,421 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:09,988 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:10,964 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:11,543 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:12,593 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:13,120 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:14,106 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:14,676 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:15,580 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:16,126 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:17,105 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:17,663 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:18,598 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:19,201 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:20,203 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/password-generator (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:20,878 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:21,776 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/password-generator (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:22,291 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:23,251 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/password-generator (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:23,825 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:24,771 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/regex-generator (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:25,336 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:26,405 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/regex-generator (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:26,898 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:27,811 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/regex-generator (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:28,393 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:29,363 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:29,856 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:30,826 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:31,559 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:32,655 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:33,307 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:34,275 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/privacy-policy (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:34,803 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:35,774 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/privacy-policy (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:36,277 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:37,157 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/privacy-policy (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:37,638 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:38,524 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:39,076 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:40,187 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:40,672 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:41,642 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:42,169 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:43,192 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:43,735 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:44,697 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:45,293 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:46,245 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:46,858 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:47,915 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:48,647 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:49,808 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:50,472 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:51,507 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:52,021 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:53,024 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/security (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:53,538 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:20:54,540 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/security (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:55,055 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:56,071 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/security (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:20:56,569 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:57,489 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/text-diff-checker (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:20:57,971 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:20:58,900 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/text-diff-checker (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:20:59,484 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:00,436 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/text-diff-checker (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:21:01,172 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:02,293 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:21:02,884 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:03,754 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:21:04,351 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:05,217 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:21:05,772 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:06,655 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:21:07,137 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:08,013 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:21:08,498 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:09,356 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:21:09,821 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:10,672 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/terms-conditions (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:21:11,224 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:12,189 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/terms-conditions (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:21:12,721 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:13,672 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/terms-conditions (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:21:14,240 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:15,163 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/blog (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:21:15,722 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:16,697 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/blog (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:21:17,404 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:18,453 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/blog (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:21:19,045 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:19,958 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/age-calculator (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:21:20,567 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:21,561 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/age-calculator (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:21:22,288 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:23,294 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/age-calculator (Attempt 3/3): 'module' object is not callable
+2026-07-01 19:21:23,802 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://14.225.240.23:8562
+2026-07-01 19:21:24,857 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-compressor (Attempt 1/3): 'module' object is not callable
+2026-07-01 19:21:25,422 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://159.65.245.255:80
+2026-07-01 19:21:26,422 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-compressor (Attempt 2/3): 'module' object is not callable
+2026-07-01 19:22:20,394 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-07-01 19:22:20,931 [INFO] root: 🌐 Auto-generating fresh free proxy pool...
+2026-07-01 19:22:22,180 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-07-01 19:22:22,572 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:23,535 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:23,989 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:24,912 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:25,388 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:26,267 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:26,734 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:27,583 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:28,042 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:28,952 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:29,398 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:30,467 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:31,189 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:32,259 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:32,911 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:34,121 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:34,676 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:35,705 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:36,206 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:37,161 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:37,662 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:38,729 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:39,263 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:40,345 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:40,974 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:41,911 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:42,376 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:43,423 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:43,994 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:44,983 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:45,515 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:46,504 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/image (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:47,120 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:48,166 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/image (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:48,827 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:49,764 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/image (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:50,327 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:51,244 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:51,991 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:53,108 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:53,680 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:22:54,651 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:55,216 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:56,162 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/qr-code-tool (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:56,727 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:57,766 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/qr-code-tool (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:22:58,424 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:22:59,443 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/qr-code-tool (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:00,050 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:01,129 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/developer (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:01,881 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:02,920 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/developer (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:03,537 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:04,702 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/developer (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:05,309 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:06,316 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/ssl-checker (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:06,884 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:07,910 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/ssl-checker (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:08,550 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:09,606 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/ssl-checker (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:10,198 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:11,297 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:11,863 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:12,834 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:13,443 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:14,346 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:14,838 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:15,865 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:16,448 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:17,499 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:17,988 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:18,988 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:19,562 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:20,565 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:21,114 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:22,166 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:22,959 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:24,215 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:24,746 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:26,106 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/xml-formatter (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:26,619 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:27,644 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/xml-formatter (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:28,158 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:29,378 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/xml-formatter (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:29,994 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:31,005 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/markdown-previewer (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:31,663 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:32,888 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/markdown-previewer (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:33,512 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:34,566 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/markdown-previewer (Attempt 3/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:35,056 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:36,073 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 1/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:36,597 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://61.158.175.38:9002
+2026-07-01 19:23:37,567 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 2/3): module 'playwright_stealth' has no attribute 'stealth_sync'
+2026-07-01 19:23:38,053 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://88.198.50.103:3128
+2026-07-01 19:23:44,535 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-07-01 19:23:45,098 [INFO] root: 🌐 Auto-generating fresh free proxy pool...
+2026-07-01 19:23:46,499 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-07-01 19:23:46,896 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:23:47,491 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:23:47,525 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:23:51,085 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/favicon-generator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/favicon-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/favicon-generator", waiting until "networkidle"
+
+2026-07-01 19:23:51,539 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:23:52,094 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:23:52,101 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:24:01,318 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/favicon-generator (Attempt 2/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/favicon-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/favicon-generator", waiting until "networkidle"
+
+2026-07-01 19:24:01,854 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:24:02,432 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:24:02,440 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:24:13,589 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/favicon-generator (Attempt 3/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/favicon-generator", waiting until "networkidle"
+
+2026-07-01 19:24:14,035 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:24:14,592 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:24:14,596 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:24:25,747 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/lorem-ipsum-generator", waiting until "networkidle"
+
+2026-07-01 19:24:26,233 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:24:26,888 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:24:26,896 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:24:36,369 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 2/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/lorem-ipsum-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/lorem-ipsum-generator", waiting until "networkidle"
+
+2026-07-01 19:24:36,895 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:24:37,546 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:24:37,554 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:24:46,733 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 3/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/lorem-ipsum-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/lorem-ipsum-generator", waiting until "networkidle"
+
+2026-07-01 19:24:47,244 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:24:47,905 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:24:47,950 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:24:57,076 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/website-cost-calculator (Attempt 1/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/website-cost-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/website-cost-calculator", waiting until "networkidle"
+
+2026-07-01 19:24:57,528 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:24:58,110 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:24:58,120 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:25:07,301 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/website-cost-calculator (Attempt 2/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/website-cost-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/website-cost-calculator", waiting until "networkidle"
+
+2026-07-01 19:25:07,949 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:25:08,589 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:25:08,599 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:25:18,066 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/website-cost-calculator (Attempt 3/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/website-cost-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/website-cost-calculator", waiting until "networkidle"
+
+2026-07-01 19:25:18,541 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:25:19,195 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:25:19,204 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:25:23,170 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/text
+Call log:
+  - navigating to "https://easemytools.com/tools/category/text", waiting until "networkidle"
+
+2026-07-01 19:25:23,876 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:25:24,549 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:25:24,569 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:25:33,775 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 2/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/category/text
+Call log:
+  - navigating to "https://easemytools.com/tools/category/text", waiting until "networkidle"
+
+2026-07-01 19:25:34,361 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:25:35,028 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:25:35,034 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:25:42,551 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 3/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/text
+Call log:
+  - navigating to "https://easemytools.com/tools/category/text", waiting until "networkidle"
+
+2026-07-01 19:25:43,122 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:25:43,791 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:25:43,797 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:25:52,926 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/profile-pic-optimizer (Attempt 1/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/profile-pic-optimizer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/profile-pic-optimizer", waiting until "networkidle"
+
+2026-07-01 19:25:53,375 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:25:53,936 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:25:53,943 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:26:03,378 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/profile-pic-optimizer (Attempt 2/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/profile-pic-optimizer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/profile-pic-optimizer", waiting until "networkidle"
+
+2026-07-01 19:26:03,926 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:26:04,559 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:26:04,567 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:26:13,760 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/profile-pic-optimizer (Attempt 3/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/profile-pic-optimizer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/profile-pic-optimizer", waiting until "networkidle"
+
+2026-07-01 19:26:14,224 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:26:14,794 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:26:14,794 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:26:25,965 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/data-uri-generator (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 19:26:26,608 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:26:27,292 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:26:27,300 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:26:38,403 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/data-uri-generator (Attempt 2/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 19:26:38,842 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://85.214.107.177:80
+2026-07-01 19:26:39,397 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:26:39,408 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com
+2026-07-01 19:26:48,592 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/data-uri-generator (Attempt 3/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/data-uri-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 19:26:49,109 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://162.240.19.30:80
+2026-07-01 19:26:49,752 [WARNING] Framework.CoreEngine: Stealth bypass skip hook alert: 'module' object is not callable
+2026-07-01 19:26:49,776 [INFO] Framework.CoreEngine: 🎯 Injecting Organic Search Headers: Referer set to google.com

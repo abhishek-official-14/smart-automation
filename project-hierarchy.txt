@@ -1,0 +1,39 @@
+smart-automation
+├─ accessibility.py
+├─ artifacts
+│  ├─ archives
+│  ├─ audio
+│  ├─ data
+│  ├─ documents
+│  │  └─ synthetic_573720b8_1782841976.txt
+│  ├─ downloads
+│  ├─ images
+│  │  ├─ synthetic_270ee659_1782843262.png
+│  │  └─ synthetic_a3e12309_1782841828.png
+│  ├─ logs
+│  ├─ office
+│  ├─ reports
+│  │  ├─ dashboard.html
+│  │  ├─ report.csv
+│  │  └─ report.json
+│  ├─ traces
+│  └─ videos
+│     ├─ synthetic_61991b71_1782845235.mp4
+│     └─ synthetic_a01cbc4e_1782845705.mp4
+├─ config.py
+├─ console.py
+├─ detector.py
+├─ downloads.py
+├─ engine.py
+├─ executor.py
+├─ network.py
+├─ performance.py
+├─ README.md
+├─ report.py
+├─ requirements.txt
+├─ runtime_asset_generator.py
+├─ screenshots.py
+├─ seo.py
+├─ sitemap.py
+├─ test_data.py
+└─ validators.py

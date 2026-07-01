@@ -1,0 +1,1049 @@
+2026-06-30 23:12:35,205 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-06-30 23:12:36,843 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-06-30 23:12:48,507 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:12:48,511 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:12:56,321 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:12:56,321 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:13:03,725 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:13:03,727 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:13:13,308 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:13:13,308 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:13:20,294 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:13:20,294 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:13:38,491 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:13:38,491 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:13:44,915 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:13:44,915 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:13:54,565 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:13:54,565 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:03,691 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:03,691 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:11,144 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:11,144 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:18,234 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:18,234 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:28,852 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:28,852 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:36,064 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:36,064 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:46,256 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:46,258 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:14:53,752 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:14:53,752 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:00,802 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:00,802 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:10,257 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:10,257 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:19,888 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:19,888 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:26,327 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:26,327 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:33,597 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:33,613 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:40,266 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:40,266 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:47,210 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:47,210 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:15:54,175 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:15:54,175 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:16:01,995 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:16:01,995 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:16:09,257 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:16:09,257 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:16:17,281 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:16:17,281 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:16:26,118 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:16:26,118 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:04,681 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:04,681 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:11,196 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:11,196 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:20,590 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:20,590 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:27,590 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:27,590 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:34,098 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:34,098 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:43,366 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:43,366 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:17:51,519 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:17:51,519 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:18:00,486 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:18:00,486 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:18:07,031 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:18:07,031 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:18:45,624 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:18:45,624 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:18:52,494 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:18:52,494 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:19:34,026 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:19:34,026 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:19:46,619 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:19:46,619 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:19:53,294 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:19:53,294 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:00,938 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:00,938 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:13,233 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:13,233 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:20,353 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:20,353 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:28,032 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:28,032 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:28,687 [INFO] Framework.RuntimeAssetGenerator: Asset Validated: synthetic_a3e12309_1782841828.png
+2026-06-30 23:20:38,167 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:38,167 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:44,820 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:44,820 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:51,137 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:51,137 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:20:58,348 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:20:58,348 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:21:05,796 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:21:05,796 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:21:12,529 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:21:12,529 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:21:51,044 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:21:51,044 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:22:00,193 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:22:00,193 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:22:41,607 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:22:41,607 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:22:48,799 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:22:48,799 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:22:56,382 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:22:56,382 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:23:04,127 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:23:04,127 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:23:10,850 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:23:10,850 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:23:12,945 [INFO] Framework.CoreEngine: Automation workflow executed completely. System reports finalized inside artifacts/reports/ folder.
+2026-06-30 23:43:41,182 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-06-30 23:43:41,787 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-06-30 23:43:50,409 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:43:50,425 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:43:58,950 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:43:58,950 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:10,228 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:10,228 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:16,034 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:16,034 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:21,695 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:21,695 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:22,122 [INFO] Framework.RuntimeAssetGenerator: Asset Validated: synthetic_270ee659_1782843262.png
+2026-06-30 23:44:32,694 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:32,694 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:39,869 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:39,869 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:46,246 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:46,246 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:44:53,103 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:44:53,103 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:01,387 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:01,387 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:12,546 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:12,546 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:15,884 [ERROR] asyncio: Task exception was never retrieved
+future: <Task finished name='Task-729' coro=<Connection.run.<locals>.init() done, defined at C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py:309> exception=Exception('Connection.init: Connection closed while reading from the driver')>
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 310, in init
+    self.playwright_future.set_result(await self._root_object.initialize())
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 251, in initialize
+    await self._channel.send(
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Connection.init: Connection closed while reading from the driver
+2026-06-30 23:45:23,077 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:23,077 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:25,826 [ERROR] asyncio: Task exception was never retrieved
+future: <Task finished name='Task-778' coro=<Connection.run.<locals>.init() done, defined at C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py:309> exception=Exception('Connection.init: Connection closed while reading from the driver')>
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 310, in init
+    self.playwright_future.set_result(await self._root_object.initialize())
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 251, in initialize
+    await self._channel.send(
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Connection.init: Connection closed while reading from the driver
+2026-06-30 23:45:25,826 [ERROR] asyncio: Task exception was never retrieved
+future: <Task finished name='Task-784' coro=<Connection.run.<locals>.init() done, defined at C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py:309> exception=Exception('Connection.init: Connection closed while reading from the driver')>
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 310, in init
+    self.playwright_future.set_result(await self._root_object.initialize())
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 251, in initialize
+    await self._channel.send(
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Connection.init: Connection closed while reading from the driver
+2026-06-30 23:45:25,826 [ERROR] asyncio: Task exception was never retrieved
+future: <Task finished name='Task-790' coro=<Connection.run.<locals>.init() done, defined at C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py:309> exception=Exception('Connection.init: Connection closed while reading from the driver')>
+Traceback (most recent call last):
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 310, in init
+    self.playwright_future.set_result(await self._root_object.initialize())
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 251, in initialize
+    await self._channel.send(
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASUS\AppData\Local\Programs\Python\Python311\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Connection.init: Connection closed while reading from the driver
+2026-06-30 23:45:30,207 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:30,207 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:34,960 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:34,960 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:41,280 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:41,280 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:45,946 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:45,946 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:51,934 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:51,940 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:45:58,395 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:45:58,395 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-06-30 23:46:06,404 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-06-30 23:46:06,404 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:05:02,761 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-07-01 00:05:03,308 [INFO] root: 🌐 Auto-generating fresh free proxy pool from live public APIs...
+2026-07-01 00:05:05,384 [INFO] root: ✅ Successfully loaded proxy list with 2 active dynamic network routes.
+2026-07-01 00:05:05,384 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-07-01 00:05:05,721 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:05:08,159 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/faq (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/faq
+Call log:
+  - navigating to "https://easemytools.com/faq", waiting until "networkidle"
+
+2026-07-01 00:05:08,531 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:05:10,878 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/faq (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/faq
+Call log:
+  - navigating to "https://easemytools.com/faq", waiting until "networkidle"
+
+2026-07-01 00:05:11,233 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:05:13,625 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/faq (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/faq
+Call log:
+  - navigating to "https://easemytools.com/faq", waiting until "networkidle"
+
+2026-07-01 00:05:13,976 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:05:45,456 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/category/file (Attempt 1): Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/category/file", waiting until "networkidle"
+
+2026-07-01 00:05:45,882 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:05:48,184 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/category/file (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/file
+Call log:
+  - navigating to "https://easemytools.com/tools/category/file", waiting until "networkidle"
+
+2026-07-01 00:05:48,529 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:05:50,912 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/category/file (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/file
+Call log:
+  - navigating to "https://easemytools.com/tools/category/file", waiting until "networkidle"
+
+2026-07-01 00:05:51,259 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:05:53,517 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/features (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/features
+Call log:
+  - navigating to "https://easemytools.com/features", waiting until "networkidle"
+
+2026-07-01 00:05:53,944 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:05:56,212 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/features (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/features
+Call log:
+  - navigating to "https://easemytools.com/features", waiting until "networkidle"
+
+2026-07-01 00:05:56,624 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:05:59,238 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/features (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/features
+Call log:
+  - navigating to "https://easemytools.com/features", waiting until "networkidle"
+
+2026-07-01 00:05:59,576 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:11,078 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/documentation (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/documentation
+Call log:
+  - navigating to "https://easemytools.com/documentation", waiting until "networkidle"
+
+2026-07-01 00:06:11,465 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:06:13,800 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/documentation (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/documentation
+Call log:
+  - navigating to "https://easemytools.com/documentation", waiting until "networkidle"
+
+2026-07-01 00:06:14,163 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:16,649 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/documentation (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/documentation
+Call log:
+  - navigating to "https://easemytools.com/documentation", waiting until "networkidle"
+
+2026-07-01 00:06:17,010 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:06:19,332 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/image-compressor (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-compressor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-compressor", waiting until "networkidle"
+
+2026-07-01 00:06:19,714 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:22,270 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/image-compressor (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-compressor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-compressor", waiting until "networkidle"
+
+2026-07-01 00:06:22,651 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:06:25,098 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/image-compressor (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-compressor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-compressor", waiting until "networkidle"
+
+2026-07-01 00:06:25,452 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:27,737 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/qr-code-tool (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/qr-code-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/qr-code-tool", waiting until "networkidle"
+
+2026-07-01 00:06:28,179 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:31,147 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/qr-code-tool (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/qr-code-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/qr-code-tool", waiting until "networkidle"
+
+2026-07-01 00:06:31,577 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:39,805 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/qr-code-tool (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/qr-code-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/qr-code-tool", waiting until "networkidle"
+
+2026-07-01 00:06:40,258 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:06:42,650 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/markdown-previewer (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/markdown-previewer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/markdown-previewer", waiting until "networkidle"
+
+2026-07-01 00:06:43,163 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:06:45,568 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/markdown-previewer (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/markdown-previewer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/markdown-previewer", waiting until "networkidle"
+
+2026-07-01 00:06:45,993 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:06:55,954 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/markdown-previewer (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/markdown-previewer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/markdown-previewer", waiting until "networkidle"
+
+2026-07-01 00:06:56,340 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:06:58,698 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/currency-converter (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/currency-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/currency-converter", waiting until "networkidle"
+
+2026-07-01 00:06:59,217 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:05,771 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/currency-converter (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/currency-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/currency-converter", waiting until "networkidle"
+
+2026-07-01 00:07:06,158 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:09,125 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/currency-converter (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/currency-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/currency-converter", waiting until "networkidle"
+
+2026-07-01 00:07:09,512 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:13,961 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/file-rename-tool (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/file-rename-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-rename-tool", waiting until "networkidle"
+
+2026-07-01 00:07:14,362 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:23,924 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/file-rename-tool (Attempt 2): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/file-rename-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-rename-tool", waiting until "networkidle"
+
+2026-07-01 00:07:24,430 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:28,443 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/file-rename-tool (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/file-rename-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-rename-tool", waiting until "networkidle"
+
+2026-07-01 00:07:28,819 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:31,208 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/remove-background (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/remove-background
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/remove-background", waiting until "networkidle"
+
+2026-07-01 00:07:31,581 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:07:33,876 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/remove-background (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/remove-background
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/remove-background", waiting until "networkidle"
+
+2026-07-01 00:07:34,242 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:07:36,479 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/remove-background (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/remove-background
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/remove-background", waiting until "networkidle"
+
+2026-07-01 00:07:36,854 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:07:39,292 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/
+Call log:
+  - navigating to "https://easemytools.com/", waiting until "networkidle"
+
+2026-07-01 00:07:39,803 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:42,941 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/
+Call log:
+  - navigating to "https://easemytools.com/", waiting until "networkidle"
+
+2026-07-01 00:07:43,394 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:47,010 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/
+Call log:
+  - navigating to "https://easemytools.com/", waiting until "networkidle"
+
+2026-07-01 00:07:47,422 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:07:49,794 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/percentage-calculator (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/percentage-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/percentage-calculator", waiting until "networkidle"
+
+2026-07-01 00:07:50,176 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:07:52,611 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/percentage-calculator (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/percentage-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/percentage-calculator", waiting until "networkidle"
+
+2026-07-01 00:07:53,012 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:07:55,395 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/percentage-calculator (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/percentage-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/percentage-calculator", waiting until "networkidle"
+
+2026-07-01 00:07:55,904 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:00,691 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools
+Call log:
+  - navigating to "https://easemytools.com/tools", waiting until "networkidle"
+
+2026-07-01 00:08:01,114 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:04,407 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools
+Call log:
+  - navigating to "https://easemytools.com/tools", waiting until "networkidle"
+
+2026-07-01 00:08:04,968 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:07,382 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools
+Call log:
+  - navigating to "https://easemytools.com/tools", waiting until "networkidle"
+
+2026-07-01 00:08:07,869 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:10,295 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/data-uri-generator (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/data-uri-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 00:08:10,878 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:13,830 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/data-uri-generator (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/data-uri-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 00:08:14,293 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:16,685 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/data-uri-generator (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/data-uri-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 00:08:17,143 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:19,330 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/color-picker (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/color-picker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/color-picker", waiting until "networkidle"
+
+2026-07-01 00:08:19,770 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:22,266 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/color-picker (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/color-picker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/color-picker", waiting until "networkidle"
+
+2026-07-01 00:08:22,710 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:29,689 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/color-picker (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/color-picker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/color-picker", waiting until "networkidle"
+
+2026-07-01 00:08:30,158 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:32,567 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/file-encryptor (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/file-encryptor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-encryptor", waiting until "networkidle"
+
+2026-07-01 00:08:33,056 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:35,578 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/file-encryptor (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/file-encryptor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-encryptor", waiting until "networkidle"
+
+2026-07-01 00:08:36,050 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:38,412 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/file-encryptor (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/file-encryptor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-encryptor", waiting until "networkidle"
+
+2026-07-01 00:08:38,891 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:41,297 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/word-counter (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/word-counter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/word-counter", waiting until "networkidle"
+
+2026-07-01 00:08:41,868 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:44,310 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/word-counter (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/word-counter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/word-counter", waiting until "networkidle"
+
+2026-07-01 00:08:44,738 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:48,063 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/word-counter (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/word-counter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/word-counter", waiting until "networkidle"
+
+2026-07-01 00:08:48,467 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:50,927 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/mp4-to-gif (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/mp4-to-gif
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/mp4-to-gif", waiting until "networkidle"
+
+2026-07-01 00:08:51,370 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:08:54,070 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/mp4-to-gif (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/mp4-to-gif
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/mp4-to-gif", waiting until "networkidle"
+
+2026-07-01 00:08:54,613 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:08:57,252 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/mp4-to-gif (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/mp4-to-gif
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/mp4-to-gif", waiting until "networkidle"
+
+2026-07-01 00:08:57,717 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:00,708 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/contact (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/contact
+Call log:
+  - navigating to "https://easemytools.com/contact", waiting until "networkidle"
+
+2026-07-01 00:09:01,183 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:03,916 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/contact (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/contact
+Call log:
+  - navigating to "https://easemytools.com/contact", waiting until "networkidle"
+
+2026-07-01 00:09:04,474 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:06,841 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/contact (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/contact
+Call log:
+  - navigating to "https://easemytools.com/contact", waiting until "networkidle"
+
+2026-07-01 00:09:07,397 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:10,486 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/password-generator (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/password-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/password-generator", waiting until "networkidle"
+
+2026-07-01 00:09:11,221 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:13,701 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/password-generator (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/password-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/password-generator", waiting until "networkidle"
+
+2026-07-01 00:09:14,204 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:16,717 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/password-generator (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/password-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/password-generator", waiting until "networkidle"
+
+2026-07-01 00:09:17,119 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:19,622 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/image-to-svg (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-to-svg
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-to-svg", waiting until "networkidle"
+
+2026-07-01 00:09:20,004 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:22,436 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/image-to-svg (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-to-svg
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-to-svg", waiting until "networkidle"
+
+2026-07-01 00:09:22,925 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:26,244 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/image-to-svg (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-to-svg
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-to-svg", waiting until "networkidle"
+
+2026-07-01 00:09:26,643 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:30,004 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/ssl-checker (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/ssl-checker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/ssl-checker", waiting until "networkidle"
+
+2026-07-01 00:09:30,363 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:33,112 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/ssl-checker (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/ssl-checker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/ssl-checker", waiting until "networkidle"
+
+2026-07-01 00:09:33,479 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:35,816 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/ssl-checker (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/ssl-checker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/ssl-checker", waiting until "networkidle"
+
+2026-07-01 00:09:36,183 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:38,728 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/unit-converter (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/unit-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/unit-converter", waiting until "networkidle"
+
+2026-07-01 00:09:39,116 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:46,195 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/unit-converter (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/unit-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/unit-converter", waiting until "networkidle"
+
+2026-07-01 00:09:46,566 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:48,847 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/unit-converter (Attempt 3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/unit-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/unit-converter", waiting until "networkidle"
+
+2026-07-01 00:09:49,219 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://120.26.0.11:8880
+2026-07-01 00:09:51,759 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/video-thumbnail-generator (Attempt 1): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/video-thumbnail-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/video-thumbnail-generator", waiting until "networkidle"
+
+2026-07-01 00:09:52,178 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:09:57,187 [WARNING] Framework.CoreEngine: Lifecycle disruption on https://easemytools.com/tools/tool/video-thumbnail-generator (Attempt 2): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/video-thumbnail-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/video-thumbnail-generator", waiting until "networkidle"
+
+2026-07-01 00:09:57,626 [INFO] Framework.CoreEngine: 🔄 Network Rotation: Opening browser window via live auto-generated IP proxy: http://61.158.175.38:9002
+2026-07-01 00:14:15,288 [INFO] Framework.SitemapParser: Connecting to target sitemap map: https://easemytools.com/sitemap.xml
+2026-07-01 00:14:15,956 [INFO] root: 🌐 Auto-generating fresh free proxy pool...
+2026-07-01 00:14:17,375 [INFO] Framework.CoreEngine: Starting parallel engine sweep. Active processes: 1
+2026-07-01 00:14:17,696 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:14:21,211 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/json-formatter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/json-formatter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/json-formatter", waiting until "networkidle"
+
+2026-07-01 00:14:21,573 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:14:25,834 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:14:25,850 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:14:28,687 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:14:40,170 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-rename-tool (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-rename-tool", waiting until "networkidle"
+
+2026-07-01 00:14:40,500 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:14:44,115 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:14:44,115 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:14:46,629 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:14:58,311 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-converter (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-converter", waiting until "networkidle"
+
+2026-07-01 00:14:58,696 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:15:02,238 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:15:02,238 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:15:04,862 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:15:11,212 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/markdown-previewer (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/markdown-previewer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/markdown-previewer", waiting until "networkidle"
+
+2026-07-01 00:15:11,573 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:15:15,615 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:15:15,615 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:15:18,325 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:15:20,711 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/case-converter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/case-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/case-converter", waiting until "networkidle"
+
+2026-07-01 00:15:21,065 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:15:25,057 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:15:25,067 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:15:59,379 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:16:10,847 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/contact (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/contact", waiting until "networkidle"
+
+2026-07-01 00:16:11,184 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:16:15,116 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:16:15,116 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:16:17,664 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:16:23,993 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/features (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/features
+Call log:
+  - navigating to "https://easemytools.com/features", waiting until "networkidle"
+
+2026-07-01 00:16:24,391 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:16:27,332 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:16:27,334 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:16:29,845 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:16:32,011 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/security (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/security
+Call log:
+  - navigating to "https://easemytools.com/tools/category/security", waiting until "networkidle"
+
+2026-07-01 00:16:32,417 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:16:36,853 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:16:36,853 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:16:39,446 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:16:47,047 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/favicon-generator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/favicon-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/favicon-generator", waiting until "networkidle"
+
+2026-07-01 00:16:47,399 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:16:51,531 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:16:51,531 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:16:54,221 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:16:56,455 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-resizer (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-resizer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-resizer", waiting until "networkidle"
+
+2026-07-01 00:16:56,820 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:17:00,889 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:17:00,889 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:17:03,568 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:17:10,640 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-to-svg (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-to-svg
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-to-svg", waiting until "networkidle"
+
+2026-07-01 00:17:10,990 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:17:14,791 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:17:14,791 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:17:15,124 [INFO] Framework.ExecutorEngine: Context Match: Video Tool detected. Generating test video assets dynamically...
+2026-07-01 00:17:16,098 [INFO] Framework.ExecutorEngine: Successfully loaded runtime dynamic testing asset into UI frame target: artifacts\videos\synthetic_61991b71_1782845235.mp4
+2026-07-01 00:17:19,278 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:17:25,051 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/word-counter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/word-counter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/word-counter", waiting until "networkidle"
+
+2026-07-01 00:17:25,403 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:17:29,377 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:17:29,377 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:17:32,248 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:17:39,530 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/age-calculator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/age-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/age-calculator", waiting until "networkidle"
+
+2026-07-01 00:17:39,917 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:17:43,530 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:17:43,530 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:17:46,266 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:17:48,649 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/terms-conditions (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/terms-conditions
+Call log:
+  - navigating to "https://easemytools.com/terms-conditions", waiting until "networkidle"
+
+2026-07-01 00:17:48,992 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:17:52,366 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:17:52,366 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:17:54,940 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:17:58,053 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/faq (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/faq
+Call log:
+  - navigating to "https://easemytools.com/faq", waiting until "networkidle"
+
+2026-07-01 00:17:58,420 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:18:01,630 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:18:01,630 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:18:05,000 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:18:11,721 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/misc (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/misc
+Call log:
+  - navigating to "https://easemytools.com/tools/category/misc", waiting until "networkidle"
+
+2026-07-01 00:18:12,077 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:18:16,274 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:18:16,274 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:18:18,835 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:18:22,277 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/privacy-policy (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/privacy-policy
+Call log:
+  - navigating to "https://easemytools.com/privacy-policy", waiting until "networkidle"
+
+2026-07-01 00:18:22,616 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:18:25,567 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:18:25,567 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:18:28,201 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:18:30,454 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/qr-code-tool (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/qr-code-tool
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/qr-code-tool", waiting until "networkidle"
+
+2026-07-01 00:18:30,874 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:18:34,636 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:18:34,636 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:18:38,246 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:18:46,113 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/regex-generator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/regex-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/regex-generator", waiting until "networkidle"
+
+2026-07-01 00:18:46,457 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:18:50,423 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:18:50,423 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:18:55,677 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:19:00,508 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/data-uri-generator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/data-uri-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/data-uri-generator", waiting until "networkidle"
+
+2026-07-01 00:19:00,874 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:19:04,504 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:19:04,504 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:19:09,612 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:19:12,008 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/website-cost-calculator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/website-cost-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/website-cost-calculator", waiting until "networkidle"
+
+2026-07-01 00:19:12,347 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:19:16,344 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:19:16,344 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:19:33,258 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:19:42,729 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/ssl-checker (Attempt 1/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/ssl-checker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/ssl-checker", waiting until "networkidle"
+
+2026-07-01 00:19:43,073 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:19:46,761 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:19:46,761 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:19:50,199 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:19:54,888 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/csv-to-json (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/csv-to-json
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/csv-to-json", waiting until "networkidle"
+
+2026-07-01 00:19:55,223 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:19:59,594 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:19:59,594 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:20:33,954 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:20:36,564 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/image-compressor (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/image-compressor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/image-compressor", waiting until "networkidle"
+
+2026-07-01 00:20:36,906 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:20:40,758 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:20:40,758 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:20:44,280 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:20:55,764 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools", waiting until "networkidle"
+
+2026-07-01 00:20:56,104 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:21:02,600 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:21:02,600 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:21:05,956 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:21:09,028 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/mp4-to-gif (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/mp4-to-gif
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/mp4-to-gif", waiting until "networkidle"
+
+2026-07-01 00:21:09,430 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:21:14,326 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:21:14,326 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:21:16,826 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:21:19,940 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/password-generator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/password-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/password-generator", waiting until "networkidle"
+
+2026-07-01 00:21:20,273 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:21:24,317 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:21:24,317 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:22:01,210 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:22:03,713 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/text (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/text
+Call log:
+  - navigating to "https://easemytools.com/tools/category/text", waiting until "networkidle"
+
+2026-07-01 00:22:04,068 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:22:08,416 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:22:08,416 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:22:10,922 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:22:13,379 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/currency-converter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/currency-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/currency-converter", waiting until "networkidle"
+
+2026-07-01 00:22:13,723 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:22:18,746 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:22:18,746 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:22:22,924 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:22:26,078 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/lorem-ipsum-generator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/lorem-ipsum-generator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/lorem-ipsum-generator", waiting until "networkidle"
+
+2026-07-01 00:22:26,400 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:22:30,176 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:22:30,176 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:22:33,736 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:22:41,928 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/file (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/file
+Call log:
+  - navigating to "https://easemytools.com/tools/category/file", waiting until "networkidle"
+
+2026-07-01 00:22:42,276 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:22:46,122 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:22:46,122 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:22:48,634 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:22:51,173 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/text-extractor (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/text-extractor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/text-extractor", waiting until "networkidle"
+
+2026-07-01 00:22:51,518 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:22:55,049 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:22:55,049 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:22:57,744 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:23:07,217 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/profile-pic-optimizer (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/profile-pic-optimizer
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/profile-pic-optimizer", waiting until "networkidle"
+
+2026-07-01 00:23:07,564 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:23:10,973 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:23:10,973 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:23:14,509 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:23:25,298 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/file-encryptor (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/file-encryptor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/file-encryptor", waiting until "networkidle"
+
+2026-07-01 00:23:25,622 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:23:29,120 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:23:29,121 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:23:35,832 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:23:45,359 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/text-diff-checker (Attempt 1/3): Page.goto: net::ERR_TIMED_OUT at https://easemytools.com/tools/tool/text-diff-checker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/text-diff-checker", waiting until "networkidle"
+
+2026-07-01 00:23:45,717 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:23:49,689 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:23:49,691 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:23:54,486 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:23:57,792 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/about (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/about
+Call log:
+  - navigating to "https://easemytools.com/about", waiting until "networkidle"
+
+2026-07-01 00:23:58,147 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:24:02,238 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:24:02,238 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:24:04,807 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:24:07,848 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/documentation (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/documentation
+Call log:
+  - navigating to "https://easemytools.com/documentation", waiting until "networkidle"
+
+2026-07-01 00:24:08,200 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:24:11,106 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:24:11,106 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:24:13,706 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:24:21,650 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/finance (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/finance
+Call log:
+  - navigating to "https://easemytools.com/tools/category/finance", waiting until "networkidle"
+
+2026-07-01 00:24:21,993 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:24:26,693 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:24:26,693 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:24:29,417 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:24:32,767 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/image (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/image
+Call log:
+  - navigating to "https://easemytools.com/tools/category/image", waiting until "networkidle"
+
+2026-07-01 00:24:33,103 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:24:37,449 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:24:37,449 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:24:40,084 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:24:51,548 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/video-thumbnail-generator (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/video-thumbnail-generator", waiting until "networkidle"
+
+2026-07-01 00:24:51,920 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:24:55,577 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:24:55,577 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:24:59,010 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:25:01,163 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/remove-background (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/remove-background
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/remove-background", waiting until "networkidle"
+
+2026-07-01 00:25:01,518 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:25:04,958 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:25:04,958 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:25:05,352 [INFO] Framework.ExecutorEngine: Context Match: Video Tool detected. Generating test video assets dynamically...
+2026-07-01 00:25:06,205 [INFO] Framework.ExecutorEngine: Successfully loaded runtime dynamic testing asset into UI frame target: artifacts\videos\synthetic_a01cbc4e_1782845705.mp4
+2026-07-01 00:25:08,562 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:25:11,055 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/
+Call log:
+  - navigating to "https://easemytools.com/", waiting until "networkidle"
+
+2026-07-01 00:25:11,405 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:25:14,971 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:25:14,971 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:25:19,263 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:25:28,820 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/url-encoder (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/url-encoder
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/url-encoder", waiting until "networkidle"
+
+2026-07-01 00:25:29,163 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:25:32,844 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:25:32,844 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:25:36,392 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:25:42,988 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/color-picker (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/color-picker
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/color-picker", waiting until "networkidle"
+
+2026-07-01 00:25:43,342 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:25:47,015 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:25:47,015 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:25:55,713 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:26:01,785 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/time-calculator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/time-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/time-calculator", waiting until "networkidle"
+
+2026-07-01 00:26:02,121 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:26:05,592 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:26:05,592 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:26:09,082 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:26:16,984 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/svg-converter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/svg-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/svg-converter", waiting until "networkidle"
+
+2026-07-01 00:26:17,333 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:26:21,476 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:26:21,476 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:26:24,288 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:26:26,577 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/base64-converter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/base64-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/base64-converter", waiting until "networkidle"
+
+2026-07-01 00:26:26,945 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:26:30,669 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:26:30,669 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:26:34,265 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:26:36,425 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/developer (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/developer
+Call log:
+  - navigating to "https://easemytools.com/tools/category/developer", waiting until "networkidle"
+
+2026-07-01 00:26:36,759 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:26:40,673 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:26:40,673 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:26:43,200 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:26:48,070 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/xml-formatter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/xml-formatter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/xml-formatter", waiting until "networkidle"
+
+2026-07-01 00:26:48,522 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:26:53,492 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:26:53,492 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:27:29,342 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:27:34,791 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/nutrition-master (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/nutrition-master
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/nutrition-master", waiting until "networkidle"
+
+2026-07-01 00:27:35,200 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:27:38,903 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:27:38,903 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:27:44,284 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:27:51,189 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/percentage-calculator (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/percentage-calculator
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/percentage-calculator", waiting until "networkidle"
+
+2026-07-01 00:27:51,599 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:27:56,617 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:27:56,617 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:28:01,951 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:28:10,217 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/category/web (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/category/web
+Call log:
+  - navigating to "https://easemytools.com/tools/category/web", waiting until "networkidle"
+
+2026-07-01 00:28:10,564 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:28:14,589 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:28:14,590 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:28:17,260 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:28:28,968 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/blog (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/blog", waiting until "networkidle"
+
+2026-07-01 00:28:29,726 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:28:33,438 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:28:33,439 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:28:36,810 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:28:47,338 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/pricing (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/pricing
+Call log:
+  - navigating to "https://easemytools.com/pricing", waiting until "networkidle"
+
+2026-07-01 00:28:47,732 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:28:50,822 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:28:50,822 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:28:53,736 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:29:05,262 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/hash-generator (Attempt 1/3): Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/hash-generator", waiting until "networkidle"
+
+2026-07-01 00:29:05,623 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:29:09,712 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:29:09,712 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:29:14,167 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:29:19,422 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/jwt-debugger (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/jwt-debugger
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/jwt-debugger", waiting until "networkidle"
+
+2026-07-01 00:29:19,811 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:29:23,856 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:29:23,857 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:29:28,166 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://201.222.50.218:80
+2026-07-01 00:29:35,180 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/pdf-image-extractor (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/pdf-image-extractor
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/pdf-image-extractor", waiting until "networkidle"
+
+2026-07-01 00:29:35,917 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:29:40,165 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:29:40,166 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:29:43,125 [INFO] Framework.CoreEngine: 🔄 Proxy Route: Opening browser window via dynamic IP proxy: http://113.204.79.230:9091
+2026-07-01 00:29:45,369 [WARNING] Framework.CoreEngine: ⚠️ Exception hit on https://easemytools.com/tools/tool/unit-converter (Attempt 1/3): Page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://easemytools.com/tools/tool/unit-converter
+Call log:
+  - navigating to "https://easemytools.com/tools/tool/unit-converter", waiting until "networkidle"
+
+2026-07-01 00:29:45,808 [INFO] Framework.CoreEngine: ⚡ High-Speed Fallback: Connecting via Direct Local Network pipe (Attempt 2)
+2026-07-01 00:29:49,763 [INFO] Framework.AccessibilityAudit: Checking system configuration environment for axe-core components...
+2026-07-01 00:29:49,763 [WARNING] Framework.AccessibilityAudit: Accessibility engine paths bypassed or not active on system context: No module named 'axe_core_python.api'
+2026-07-01 00:30:26,610 [INFO] Framework.CoreEngine: Automation workflow executed completely. System reports finalized inside artifacts/reports/ folder.

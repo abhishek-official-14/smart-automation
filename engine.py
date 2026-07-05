@@ -522,7 +522,7 @@ class EnterpriseAutomationEngine:
                 page.wait_for_timeout(500)
 
                 raw_html = page.content()
-                dom = PageTypeDetector.analyze_dom(raw_html)
+                dom = PageTypeDetector.analyze_dom(raw_html, url=url)
                 perf = PerformanceProfiler.capture_metrics(page)
                 seo = SEOLintEngine.audit_page(raw_html)
                 a11y = AccessibilityAuditor.run_audit(page)

@@ -1,12 +1,32 @@
 [
   {
-    "url": "https://easemytools.com/tools/tool/json-formatter",
+    "url": "https://easemytools.com/tools/category/developer",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Category (DEVELOPER)",
     "performance": {
-      "load_time_ms": 1350,
-      "dom_ready_ms": 1348,
-      "ttfb_ms": 77
+      "load_time_ms": 2667,
+      "dom_ready_ms": 2537,
+      "ttfb_ms": 44
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/data-uri-generator",
+    "status": "PASSED",
+    "page_classification": "Utility Tool",
+    "performance": {
+      "load_time_ms": 1169,
+      "dom_ready_ms": 1153,
+      "ttfb_ms": 56
     },
     "seo": {
       "score": 100,
@@ -17,18 +37,40 @@
       "violations_count": 0
     },
     "actions": [
-      "Deep Textarea Multiline Blocks Injected"
+      "Dropdown Manipulation Fired",
+      "Deep Textarea Multiline Blocks Injected",
+      "Action Transmutation Button Fired -> (button:has-text('Generate'))"
     ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+    "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/tools/tool/file-rename-tool",
+    "url": "https://easemytools.com/tools/tool/mp4-to-gif",
     "status": "FAILED",
     "page_classification": "Video Tool",
     "performance": {
-      "load_time_ms": 1016,
-      "dom_ready_ms": 1016,
-      "ttfb_ms": 44
+      "load_time_ms": 1162,
+      "dom_ready_ms": 1043,
+      "ttfb_ms": 86
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/file-encryptor",
+    "status": "FAILED",
+    "page_classification": "Security Tool",
+    "performance": {
+      "load_time_ms": 1351,
+      "dom_ready_ms": 1347,
+      "ttfb_ms": 65
     },
     "seo": {
       "score": 100,
@@ -46,11 +88,11 @@
   {
     "url": "https://easemytools.com/tools/tool/file-converter",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Calculation Tool",
     "performance": {
-      "load_time_ms": 918,
-      "dom_ready_ms": 914,
-      "ttfb_ms": 43
+      "load_time_ms": 1102,
+      "dom_ready_ms": 912,
+      "ttfb_ms": 64
     },
     "seo": {
       "score": 100,
@@ -66,13 +108,13 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/tools/tool/markdown-previewer",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/url-encoder",
+    "status": "PASSED",
+    "page_classification": "Developer Tool",
     "performance": {
-      "load_time_ms": 1202,
-      "dom_ready_ms": 1196,
-      "ttfb_ms": 64
+      "load_time_ms": 1332,
+      "dom_ready_ms": 1266,
+      "ttfb_ms": 57
     },
     "seo": {
       "score": 100,
@@ -85,16 +127,39 @@
     "actions": [
       "Deep Textarea Multiline Blocks Injected"
     ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+    "failure_reason": ""
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/unit-converter",
+    "status": "PASSED",
+    "page_classification": "Calculation Tool",
+    "performance": {
+      "load_time_ms": 1236,
+      "dom_ready_ms": 962,
+      "ttfb_ms": 90
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Dropdown Manipulation Fired",
+      "Input Fields Loaded"
+    ],
+    "failure_reason": ""
   },
   {
     "url": "https://easemytools.com/tools/tool/case-converter",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Text Tool",
     "performance": {
-      "load_time_ms": 1260,
-      "dom_ready_ms": 1183,
-      "ttfb_ms": 44
+      "load_time_ms": 1130,
+      "dom_ready_ms": 742,
+      "ttfb_ms": 55
     },
     "seo": {
       "score": 100,
@@ -104,121 +169,19 @@
       "accessibility_score": 95,
       "violations_count": 0
     },
-    "actions": [],
+    "actions": [
+      "Deep Textarea Multiline Blocks Injected"
+    ],
     "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/contact",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 646,
-      "dom_ready_ms": 604,
-      "ttfb_ms": 63
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/features",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 651,
-      "dom_ready_ms": 650,
-      "ttfb_ms": 97
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/category/security",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1206,
-      "dom_ready_ms": 973,
-      "ttfb_ms": 154
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/favicon-generator",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1546,
-      "dom_ready_ms": 1463,
-      "ttfb_ms": 45
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Contextual File Upload Sequence Completed"
-    ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/image-resizer",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 993,
-      "dom_ready_ms": 946,
-      "ttfb_ms": 49
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Contextual File Upload Sequence Completed"
-    ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
     "url": "https://easemytools.com/tools/tool/image-to-svg",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Image Tool",
     "performance": {
-      "load_time_ms": 998,
-      "dom_ready_ms": 997,
-      "ttfb_ms": 55
+      "load_time_ms": 1485,
+      "dom_ready_ms": 1428,
+      "ttfb_ms": 63
     },
     "seo": {
       "score": 100,
@@ -235,13 +198,100 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
+    "url": "https://easemytools.com/tools/tool/remove-background",
+    "status": "PASSED",
+    "page_classification": "Image Tool",
+    "performance": {
+      "load_time_ms": 1394,
+      "dom_ready_ms": 1284,
+      "ttfb_ms": 84
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Contextual File Upload Sequence Completed"
+    ],
+    "failure_reason": ""
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/nutrition-master",
+    "status": "PASSED",
+    "page_classification": "Utility Tool",
+    "performance": {
+      "load_time_ms": 1470,
+      "dom_ready_ms": 1469,
+      "ttfb_ms": 70
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Dropdown Manipulation Fired",
+      "Input Fields Loaded"
+    ],
+    "failure_reason": ""
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/file-rename-tool",
+    "status": "FAILED",
+    "page_classification": "Utility Tool",
+    "performance": {
+      "load_time_ms": 1283,
+      "dom_ready_ms": 1275,
+      "ttfb_ms": 54
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Contextual File Upload Sequence Completed"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/category/misc",
+    "status": "FAILED",
+    "page_classification": "Category (MISC)",
+    "performance": {
+      "load_time_ms": 1003,
+      "dom_ready_ms": 820,
+      "ttfb_ms": 59
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
     "url": "https://easemytools.com/tools/tool/word-counter",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Text Tool",
     "performance": {
-      "load_time_ms": 1176,
-      "dom_ready_ms": 1129,
-      "ttfb_ms": 72
+      "load_time_ms": 1139,
+      "dom_ready_ms": 1099,
+      "ttfb_ms": 51
     },
     "seo": {
       "score": 100,
@@ -257,12 +307,12 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/tools/tool/age-calculator",
+    "url": "https://easemytools.com/tools/tool/video-thumbnail-generator",
     "status": "FAILED",
     "page_classification": "Video Tool",
     "performance": {
-      "load_time_ms": 921,
-      "dom_ready_ms": 913,
+      "load_time_ms": 1102,
+      "dom_ready_ms": 935,
       "ttfb_ms": 50
     },
     "seo": {
@@ -273,17 +323,20 @@
       "accessibility_score": 95,
       "violations_count": 0
     },
-    "actions": [],
+    "actions": [
+      "Contextual File Upload Sequence Completed",
+      "Action Transmutation Button Fired -> (button:has-text('Upload'))"
+    ],
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/terms-conditions",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/currency-converter",
+    "status": "PASSED",
+    "page_classification": "Calculation Tool",
     "performance": {
-      "load_time_ms": 459,
-      "dom_ready_ms": 316,
-      "ttfb_ms": 57
+      "load_time_ms": 997,
+      "dom_ready_ms": 997,
+      "ttfb_ms": 46
     },
     "seo": {
       "score": 100,
@@ -293,17 +346,20 @@
       "accessibility_score": 95,
       "violations_count": 0
     },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+    "actions": [
+      "Dropdown Manipulation Fired",
+      "Input Fields Loaded"
+    ],
+    "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/faq",
+    "url": "https://easemytools.com/tools",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Tools Directory",
     "performance": {
-      "load_time_ms": 696,
-      "dom_ready_ms": 548,
-      "ttfb_ms": 128
+      "load_time_ms": 829,
+      "dom_ready_ms": 791,
+      "ttfb_ms": 54
     },
     "seo": {
       "score": 100,
@@ -319,13 +375,13 @@
     "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/tools/category/misc",
+    "url": "https://easemytools.com/tools/tool/time-calculator",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Calculation Tool",
     "performance": {
-      "load_time_ms": 886,
-      "dom_ready_ms": 882,
-      "ttfb_ms": 55
+      "load_time_ms": 1087,
+      "dom_ready_ms": 1080,
+      "ttfb_ms": 92
     },
     "seo": {
       "score": 100,
@@ -339,13 +395,13 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/privacy-policy",
+    "url": "https://easemytools.com/tools/category/file",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Category (FILE)",
     "performance": {
-      "load_time_ms": 546,
-      "dom_ready_ms": 363,
-      "ttfb_ms": 49
+      "load_time_ms": 1219,
+      "dom_ready_ms": 1210,
+      "ttfb_ms": 50
     },
     "seo": {
       "score": 100,
@@ -359,13 +415,13 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/tools/tool/qr-code-tool",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/password-generator",
+    "status": "FAILED",
+    "page_classification": "Text Tool",
     "performance": {
-      "load_time_ms": 963,
-      "dom_ready_ms": 949,
-      "ttfb_ms": 39
+      "load_time_ms": 1071,
+      "dom_ready_ms": 1035,
+      "ttfb_ms": 52
     },
     "seo": {
       "score": 100,
@@ -376,19 +432,108 @@
       "violations_count": 0
     },
     "actions": [
-      "Contextual File Upload Sequence Completed",
+      "Dropdown Manipulation Fired",
+      "Action Transmutation Button Fired -> (button:has-text('Generate'))"
+    ],
+    "failure_reason": "Data Generation Failure: Input text fields changed state but the output buffer remains empty."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/text-extractor",
+    "status": "FAILED",
+    "page_classification": "Text Tool",
+    "performance": {
+      "load_time_ms": 1261,
+      "dom_ready_ms": 1195,
+      "ttfb_ms": 43
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Contextual File Upload Sequence Completed"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/csv-to-json",
+    "status": "PASSED",
+    "page_classification": "Developer Tool",
+    "performance": {
+      "load_time_ms": 1240,
+      "dom_ready_ms": 1239,
+      "ttfb_ms": 49
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
       "Deep Textarea Multiline Blocks Injected"
+    ],
+    "failure_reason": ""
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/json-formatter",
+    "status": "FAILED",
+    "page_classification": "Developer Tool",
+    "performance": {
+      "load_time_ms": 1126,
+      "dom_ready_ms": 763,
+      "ttfb_ms": 58
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Deep Textarea Multiline Blocks Injected"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/website-cost-calculator",
+    "status": "PASSED",
+    "page_classification": "Calculation Tool",
+    "performance": {
+      "load_time_ms": 1455,
+      "dom_ready_ms": 1373,
+      "ttfb_ms": 64
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Dropdown Manipulation Fired",
+      "Input Fields Loaded"
     ],
     "failure_reason": ""
   },
   {
     "url": "https://easemytools.com/tools/tool/regex-generator",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Developer Tool",
     "performance": {
-      "load_time_ms": 1246,
-      "dom_ready_ms": 1245,
-      "ttfb_ms": 124
+      "load_time_ms": 1110,
+      "dom_ready_ms": 1073,
+      "ttfb_ms": 45
     },
     "seo": {
       "score": 100,
@@ -406,320 +551,12 @@
     "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/tools/tool/data-uri-generator",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1050,
-      "dom_ready_ms": 1016,
-      "ttfb_ms": 58
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Dropdown Manipulation Fired",
-      "Deep Textarea Multiline Blocks Injected",
-      "Action Transmutation Button Fired -> (button:has-text('Generate'))"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/website-cost-calculator",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1200,
-      "dom_ready_ms": 1123,
-      "ttfb_ms": 65
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Dropdown Manipulation Fired",
-      "Input Fields Loaded"
-    ],
-    "failure_reason": ""
-  },
-  {
     "url": "https://easemytools.com/tools/tool/ssl-checker",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Developer Tool",
     "performance": {
-      "load_time_ms": 979,
-      "dom_ready_ms": 910,
-      "ttfb_ms": 55
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Input Fields Loaded"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/csv-to-json",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1418,
-      "dom_ready_ms": 1416,
-      "ttfb_ms": 89
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/image-compressor",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 953,
-      "dom_ready_ms": 878,
-      "ttfb_ms": 100
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Contextual File Upload Sequence Completed",
-      "Action Transmutation Button Fired -> (button:has-text('Compress'))"
-    ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 569,
-      "dom_ready_ms": 529,
-      "ttfb_ms": 48
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Input Fields Loaded"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/mp4-to-gif",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 949,
-      "dom_ready_ms": 875,
-      "ttfb_ms": 50
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/password-generator",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1198,
-      "dom_ready_ms": 1164,
-      "ttfb_ms": 49
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Dropdown Manipulation Fired",
-      "Action Transmutation Button Fired -> (button:has-text('Generate'))"
-    ],
-    "failure_reason": "Data Generation Failure: Input text fields changed state but the output buffer remains empty."
-  },
-  {
-    "url": "https://easemytools.com/tools/category/text",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1218,
-      "dom_ready_ms": 1218,
-      "ttfb_ms": 42
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/currency-converter",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 883,
-      "dom_ready_ms": 783,
-      "ttfb_ms": 54
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Dropdown Manipulation Fired",
-      "Input Fields Loaded"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/lorem-ipsum-generator",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 824,
-      "dom_ready_ms": 734,
-      "ttfb_ms": 46
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Deep Textarea Multiline Blocks Injected",
-      "Action Transmutation Button Fired -> (button:has-text('Generate'))"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/category/file",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 889,
-      "dom_ready_ms": 690,
-      "ttfb_ms": 43
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/text-extractor",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 944,
-      "dom_ready_ms": 930,
-      "ttfb_ms": 48
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Contextual File Upload Sequence Completed"
-    ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/profile-pic-optimizer",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 779,
-      "dom_ready_ms": 647,
-      "ttfb_ms": 52
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Contextual File Upload Sequence Completed",
-      "Action Transmutation Button Fired -> (button:has-text('Upload'))"
-    ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/file-encryptor",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 804,
-      "dom_ready_ms": 749,
+      "load_time_ms": 1246,
+      "dom_ready_ms": 1232,
       "ttfb_ms": 47
     },
     "seo": {
@@ -731,18 +568,18 @@
       "violations_count": 0
     },
     "actions": [
-      "Contextual File Upload Sequence Completed"
+      "Input Fields Loaded"
     ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+    "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/tools/tool/text-diff-checker",
+    "url": "https://easemytools.com/tools/tool/xml-formatter",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Developer Tool",
     "performance": {
-      "load_time_ms": 1149,
-      "dom_ready_ms": 1147,
-      "ttfb_ms": 98
+      "load_time_ms": 1113,
+      "dom_ready_ms": 1105,
+      "ttfb_ms": 52
     },
     "seo": {
       "score": 100,
@@ -753,19 +590,41 @@
       "violations_count": 0
     },
     "actions": [
-      "Dropdown Manipulation Fired",
       "Deep Textarea Multiline Blocks Injected"
     ],
     "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/about",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/hash-generator",
+    "status": "PASSED",
+    "page_classification": "Developer Tool",
     "performance": {
-      "load_time_ms": 722,
-      "dom_ready_ms": 722,
-      "ttfb_ms": 48
+      "load_time_ms": 969,
+      "dom_ready_ms": 719,
+      "ttfb_ms": 47
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Deep Textarea Multiline Blocks Injected",
+      "Action Transmutation Button Fired -> (button:has-text('Generate'))"
+    ],
+    "failure_reason": ""
+  },
+  {
+    "url": "https://easemytools.com/tools/category/security",
+    "status": "FAILED",
+    "page_classification": "Category (SECURITY)",
+    "performance": {
+      "load_time_ms": 984,
+      "dom_ready_ms": 980,
+      "ttfb_ms": 60
     },
     "seo": {
       "score": 100,
@@ -779,73 +638,13 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/documentation",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/qr-code-tool",
+    "status": "PASSED",
+    "page_classification": "Utility Tool",
     "performance": {
-      "load_time_ms": 618,
-      "dom_ready_ms": 571,
-      "ttfb_ms": 48
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/category/finance",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1197,
-      "dom_ready_ms": 1093,
-      "ttfb_ms": 85
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/category/image",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1064,
-      "dom_ready_ms": 1061,
-      "ttfb_ms": 64
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/video-thumbnail-generator",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 903,
-      "dom_ready_ms": 845,
-      "ttfb_ms": 48
+      "load_time_ms": 1240,
+      "dom_ready_ms": 1204,
+      "ttfb_ms": 62
     },
     "seo": {
       "score": 100,
@@ -857,18 +656,18 @@
     },
     "actions": [
       "Contextual File Upload Sequence Completed",
-      "Action Transmutation Button Fired -> (button:has-text('Upload'))"
+      "Deep Textarea Multiline Blocks Injected"
     ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+    "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/tools/tool/remove-background",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/favicon-generator",
+    "status": "FAILED",
+    "page_classification": "Image Tool",
     "performance": {
-      "load_time_ms": 852,
-      "dom_ready_ms": 845,
-      "ttfb_ms": 50
+      "load_time_ms": 830,
+      "dom_ready_ms": 633,
+      "ttfb_ms": 52
     },
     "seo": {
       "score": 100,
@@ -881,16 +680,16 @@
     "actions": [
       "Contextual File Upload Sequence Completed"
     ],
-    "failure_reason": ""
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/markdown-previewer",
+    "status": "FAILED",
+    "page_classification": "Utility Tool",
     "performance": {
-      "load_time_ms": 573,
-      "dom_ready_ms": 566,
-      "ttfb_ms": 55
+      "load_time_ms": 1558,
+      "dom_ready_ms": 1551,
+      "ttfb_ms": 47
     },
     "seo": {
       "score": 100,
@@ -901,18 +700,18 @@
       "violations_count": 0
     },
     "actions": [
-      "Input Fields Loaded"
+      "Deep Textarea Multiline Blocks Injected"
     ],
-    "failure_reason": ""
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/tools/tool/url-encoder",
+    "url": "https://easemytools.com/tools/tool/base64-converter",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Developer Tool",
     "performance": {
-      "load_time_ms": 990,
-      "dom_ready_ms": 948,
-      "ttfb_ms": 48
+      "load_time_ms": 1626,
+      "dom_ready_ms": 1576,
+      "ttfb_ms": 47
     },
     "seo": {
       "score": 100,
@@ -930,11 +729,11 @@
   {
     "url": "https://easemytools.com/tools/tool/color-picker",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Image Tool",
     "performance": {
-      "load_time_ms": 789,
-      "dom_ready_ms": 662,
-      "ttfb_ms": 73
+      "load_time_ms": 1006,
+      "dom_ready_ms": 1005,
+      "ttfb_ms": 56
     },
     "seo": {
       "score": 100,
@@ -951,222 +750,13 @@
     "failure_reason": "Data Generation Failure: Input text fields changed state but the output buffer remains empty."
   },
   {
-    "url": "https://easemytools.com/tools/tool/time-calculator",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 909,
-      "dom_ready_ms": 907,
-      "ttfb_ms": 47
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/svg-converter",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 951,
-      "dom_ready_ms": 948,
-      "ttfb_ms": 58
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Contextual File Upload Sequence Completed"
-    ],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/base64-converter",
+    "url": "https://easemytools.com/tools/tool/lorem-ipsum-generator",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Text Tool",
     "performance": {
-      "load_time_ms": 845,
-      "dom_ready_ms": 713,
-      "ttfb_ms": 47
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Deep Textarea Multiline Blocks Injected"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/category/developer",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 794,
-      "dom_ready_ms": 791,
-      "ttfb_ms": 52
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/xml-formatter",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 831,
-      "dom_ready_ms": 734,
-      "ttfb_ms": 41
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/nutrition-master",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 834,
-      "dom_ready_ms": 808,
-      "ttfb_ms": 57
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Dropdown Manipulation Fired",
-      "Input Fields Loaded"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/percentage-calculator",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 832,
-      "dom_ready_ms": 656,
-      "ttfb_ms": 44
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [
-      "Input Fields Loaded"
-    ],
-    "failure_reason": ""
-  },
-  {
-    "url": "https://easemytools.com/tools/category/web",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 938,
-      "dom_ready_ms": 935,
-      "ttfb_ms": 49
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/blog",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 633,
-      "dom_ready_ms": 544,
-      "ttfb_ms": 45
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/pricing",
-    "status": "FAILED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 577,
-      "dom_ready_ms": 577,
-      "ttfb_ms": 43
-    },
-    "seo": {
-      "score": 100,
-      "seo_errors": []
-    },
-    "accessibility": {
-      "accessibility_score": 95,
-      "violations_count": 0
-    },
-    "actions": [],
-    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
-  },
-  {
-    "url": "https://easemytools.com/tools/tool/hash-generator",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
-    "performance": {
-      "load_time_ms": 1019,
-      "dom_ready_ms": 1018,
-      "ttfb_ms": 44
+      "load_time_ms": 1390,
+      "dom_ready_ms": 1362,
+      "ttfb_ms": 50
     },
     "seo": {
       "score": 100,
@@ -1183,13 +773,13 @@
     "failure_reason": ""
   },
   {
-    "url": "https://easemytools.com/tools/tool/jwt-debugger",
+    "url": "https://easemytools.com/tools/tool/text-diff-checker",
     "status": "PASSED",
-    "page_classification": "Video Tool",
+    "page_classification": "Text Tool",
     "performance": {
-      "load_time_ms": 1205,
-      "dom_ready_ms": 1165,
-      "ttfb_ms": 47
+      "load_time_ms": 1166,
+      "dom_ready_ms": 1137,
+      "ttfb_ms": 84
     },
     "seo": {
       "score": 100,
@@ -1200,18 +790,85 @@
       "violations_count": 0
     },
     "actions": [
+      "Dropdown Manipulation Fired",
       "Deep Textarea Multiline Blocks Injected"
     ],
     "failure_reason": ""
   },
   {
+    "url": "https://easemytools.com/tools/tool/profile-pic-optimizer",
+    "status": "FAILED",
+    "page_classification": "Image Tool",
+    "performance": {
+      "load_time_ms": 1017,
+      "dom_ready_ms": 912,
+      "ttfb_ms": 53
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Contextual File Upload Sequence Completed",
+      "Action Transmutation Button Fired -> (button:has-text('Upload'))"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/image-compressor",
+    "status": "FAILED",
+    "page_classification": "Image Tool",
+    "performance": {
+      "load_time_ms": 1129,
+      "dom_ready_ms": 1128,
+      "ttfb_ms": 48
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Contextual File Upload Sequence Completed",
+      "Action Transmutation Button Fired -> (button:has-text('Compress'))"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/category/finance",
+    "status": "FAILED",
+    "page_classification": "Category (FINANCE)",
+    "performance": {
+      "load_time_ms": 879,
+      "dom_ready_ms": 879,
+      "ttfb_ms": 52
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
     "url": "https://easemytools.com/tools/tool/pdf-image-extractor",
     "status": "FAILED",
-    "page_classification": "Video Tool",
+    "page_classification": "Image Tool",
     "performance": {
-      "load_time_ms": 1132,
-      "dom_ready_ms": 1027,
-      "ttfb_ms": 35
+      "load_time_ms": 1016,
+      "dom_ready_ms": 1011,
+      "ttfb_ms": 47
     },
     "seo": {
       "score": 100,
@@ -1227,13 +884,13 @@
     "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
   },
   {
-    "url": "https://easemytools.com/tools/tool/unit-converter",
-    "status": "PASSED",
-    "page_classification": "Video Tool",
+    "url": "https://easemytools.com/tools/tool/svg-converter",
+    "status": "FAILED",
+    "page_classification": "Image Tool",
     "performance": {
-      "load_time_ms": 1193,
-      "dom_ready_ms": 1113,
-      "ttfb_ms": 52
+      "load_time_ms": 1247,
+      "dom_ready_ms": 1243,
+      "ttfb_ms": 66
     },
     "seo": {
       "score": 100,
@@ -1244,7 +901,175 @@
       "violations_count": 0
     },
     "actions": [
-      "Dropdown Manipulation Fired"
+      "Contextual File Upload Sequence Completed"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/image-resizer",
+    "status": "FAILED",
+    "page_classification": "Image Tool",
+    "performance": {
+      "load_time_ms": 1048,
+      "dom_ready_ms": 1045,
+      "ttfb_ms": 46
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Contextual File Upload Sequence Completed"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/jwt-debugger",
+    "status": "PASSED",
+    "page_classification": "Developer Tool",
+    "performance": {
+      "load_time_ms": 874,
+      "dom_ready_ms": 874,
+      "ttfb_ms": 58
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Deep Textarea Multiline Blocks Injected"
+    ],
+    "failure_reason": ""
+  },
+  {
+    "url": "https://easemytools.com/tools/category/web",
+    "status": "FAILED",
+    "page_classification": "Category (WEB)",
+    "performance": {
+      "load_time_ms": 1246,
+      "dom_ready_ms": 1246,
+      "ttfb_ms": 53
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/category/image",
+    "status": "FAILED",
+    "page_classification": "Category (IMAGE)",
+    "performance": {
+      "load_time_ms": 840,
+      "dom_ready_ms": 777,
+      "ttfb_ms": 50
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com",
+    "status": "FAILED",
+    "page_classification": "Homepage",
+    "performance": {
+      "load_time_ms": 552,
+      "dom_ready_ms": 525,
+      "ttfb_ms": 47
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Input Fields Loaded"
+    ],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/age-calculator",
+    "status": "FAILED",
+    "page_classification": "Calculation Tool",
+    "performance": {
+      "load_time_ms": 1317,
+      "dom_ready_ms": 1313,
+      "ttfb_ms": 52
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/category/text",
+    "status": "FAILED",
+    "page_classification": "Category (TEXT)",
+    "performance": {
+      "load_time_ms": 1045,
+      "dom_ready_ms": 1041,
+      "ttfb_ms": 56
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [],
+    "failure_reason": "UI Mutation Failure: The page layout configuration remained completely static after processing action inputs."
+  },
+  {
+    "url": "https://easemytools.com/tools/tool/percentage-calculator",
+    "status": "PASSED",
+    "page_classification": "Calculation Tool",
+    "performance": {
+      "load_time_ms": 861,
+      "dom_ready_ms": 800,
+      "ttfb_ms": 43
+    },
+    "seo": {
+      "score": 100,
+      "seo_errors": []
+    },
+    "accessibility": {
+      "accessibility_score": 95,
+      "violations_count": 0
+    },
+    "actions": [
+      "Input Fields Loaded"
     ],
     "failure_reason": ""
   }
